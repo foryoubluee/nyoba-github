@@ -4,3 +4,4 @@ RENCANA SAYA
     * magical mystery tour
 - Kuliah ComScience
 - Kaya
+- Menambahkan fitur
